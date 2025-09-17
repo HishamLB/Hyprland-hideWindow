@@ -1,5 +1,5 @@
 # Hyprland-hideWindow
-tiny script to hide and bring back a window in hyprland
+tiny script and bind to hide and bring back a window in hyprland
 
 # To Hide Window
 
